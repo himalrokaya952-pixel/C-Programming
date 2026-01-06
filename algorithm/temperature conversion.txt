@@ -1,0 +1,7 @@
+Step 1: Start
+Step 2: Declare variable for celsius and farhenheit
+Step 3: Take input from user in celsius
+Step 4: Use formula F = (C * 1.8) + 32
+Step 5: Display result
+Step 6: Stop
+

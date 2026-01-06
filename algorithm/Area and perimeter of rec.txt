@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Declare variable for length, breadth, area and perimeter
+Step 3: Take input from user 
+Step 4: Use formula of area and perimeter of a rec
+Step 5: Display Area and perimeter of a rec
+Step 6: Stop

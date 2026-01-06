@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Declare variable for units consumed and assign 5 for the cost per unit
+Step 3: Take units from user
+Step 4: Use formula to calculate total bill amount
+Step 5: Display Total bill amount
+Step 6: Stop
